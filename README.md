@@ -1,7 +1,7 @@
 # spam-dectection
 Implement of paper Learning to Represent Review with Tensor Decomposition for Spam Detection,emnlp,2016
 
-# results
+## results
 
 RE(50:50):0.7792207792207793
 
