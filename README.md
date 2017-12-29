@@ -25,8 +25,7 @@ avg / total       0.87      0.71      0.76       577
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 RE+PE(50:50)
 
-             precision    recall  f1-score   support
-
+               precision    recall  f1-score   support
           0       0.78      0.87      0.82        77
           1       0.85      0.75      0.80        77
 
