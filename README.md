@@ -3,7 +3,7 @@ Implement of paper Learning to Represent Review with Tensor Decomposition for Sp
 
 ## results
 
-RE(50:50):0.7792207792207793
+### RE(50:50):0.7792207792207793
 
                precision    recall    f1-score     support
             0      0.75      0.83      0.79         77    
@@ -12,8 +12,7 @@ RE(50:50):0.7792207792207793
  
 
 
-
-RE(ND):0.7123050259965338
+### RE(ND):0.7123050259965338
 
                   precision    recall  f1-score   support
             0       0.29      0.83      0.44        77
@@ -22,7 +21,7 @@ RE(ND):0.7123050259965338
  
 
 
-RE+PE(50:50):0.811688311688
+### RE+PE(50:50):0.811688311688
 
                    precision    recall  f1-score   support
               0       0.78      0.87      0.82        77
