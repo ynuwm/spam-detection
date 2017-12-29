@@ -2,11 +2,11 @@
 Implement of paper Learning to Represent Review with Tensor Decomposition for Spam Detection,emnlp,2016
 # results
 RE(50:50):
-          precision    recall  f1-score   support
-          0       0.75      0.83      0.79        77
-          1       0.81      0.73      0.77        77
+|        |precision  |  recall  |  f1-score   |  support|
+|     0  |    0.75   |   0.83   |   0.79      |   77    |
+|     1  |    0.81   |   0.73   |   0.77      |   77    |
 
-avg / total       0.78      0.78      0.78       154
+|avg/total |      0.78   |   0.78   |   0.78  |     154 |
  
  ('RE,50:50,accuracy:', 0.7792207792207793)
 
