@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 28 21:26:38 2017
-@author: Neural
+@author: ynuwm
 """
 
 import nltk
