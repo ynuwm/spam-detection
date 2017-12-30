@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 29 13:36:18 2017
-@author: Neural
+@author: ynuwm
 """
 import numpy as np
 from sklearn.metrics import classification_report
